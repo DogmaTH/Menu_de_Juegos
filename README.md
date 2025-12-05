@@ -18,7 +18,10 @@ Cada juego fue implementado en archivos separados, utilizando cabeceras personal
 
 
 ### 1. Adivina el Número
-- El programa genera un número aleatorio entre 1 y 100.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a8da6afb-ab33-4174-9dfb-a81bc1734624" />
+
+- El programa genera un número aleatorio entre 1 y 200.
 - El jugador debe intentar adivinarlo.
 - Se indica si el número ingresado es mayor o menor.
 - Se usa `rand()` y `srand(time(NULL))` para manejar números aleatorios.
@@ -26,6 +29,9 @@ Cada juego fue implementado en archivos separados, utilizando cabeceras personal
 ---
 
 ### 2. Ahorcado
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8d596b42-886c-4bed-91af-2c7d955fd9db" />
+
 - El juego selecciona aleatoriamente una palabra de una categoría (frutas).
 - El jugador debe adivinar la palabra letra por letra.
 - Se muestra el progreso en pantalla (“_ _ _ _”).
@@ -35,9 +41,12 @@ Cada juego fue implementado en archivos separados, utilizando cabeceras personal
 ---
 
 ###3. Tres en Raya (Tic-Tac-Toe)
+
+<img width="522" height="464" alt="image" src="https://github.com/user-attachments/assets/cf93ef3c-079f-4258-993e-fd20d1e1caa8" />
+
 Incluye dos modos:
 - **Jugador vs Jugador**
-- **Jugador vs Computadora** (la IA elige movimientos aleatorios)
+- **Jugador vs Computadora** 
 
 Características:
 - Tablero 3×3 mostrado en consola.
