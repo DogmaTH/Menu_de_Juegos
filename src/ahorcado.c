@@ -3,7 +3,7 @@ void ahorcado() {
     static char *frutas[]={"papaya", "mandarina", "manzana", "pera", "sandia", "banana", "kiwi"};
     int total=7;
     srand(time(NULL));
-    int indice=rand() % total;
+    int indice=rand()%total;
     char *palabra=frutas[indice];
     int largo=strlen(palabra);
     char progreso[largo + 1];
@@ -16,7 +16,7 @@ void ahorcado() {
     int aciertos = 0;
     int yaEstaba;
     printf("\n---------- A H O R C A D O ----------\n");
-    printf("Palabra seleccionada: (frutas)\n\n");
+    printf("Palabra seleccionada: (frutas)\n");
 
     while (intentos>0 && aciertos<largo) {
         printf("\nIntentos restantes: %d\n", intentos);
