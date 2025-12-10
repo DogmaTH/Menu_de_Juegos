@@ -30,7 +30,7 @@ Cada juego fue implementado en archivos separados, utilizando cabeceras personal
 
 ### 2. Ahorcado
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/32b0516d-c467-467d-b61b-8b2c6bbdc7a4" />
+<img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/358e60c9-51c6-442a-b1eb-0e80d63cc79a" />
 
 - El juego selecciona aleatoriamente una palabra de una categoría (frutas).
 - El jugador debe adivinar la palabra letra por letra.
